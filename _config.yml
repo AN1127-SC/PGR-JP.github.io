@@ -1,0 +1,10 @@
+title: あなたのサイト名
+description: 情報提供サイト
+baseurl: ""  # 空のまま
+url: "https://あなたのユーザー名.github.io"
+
+# テーマ（最初はシンプルなものを）
+remote_theme: just-the-docs/just-the-docs  # Wiki風ドキュメントに最適
+
+# 日本語対応
+lang: ja
